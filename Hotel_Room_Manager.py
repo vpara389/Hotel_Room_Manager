@@ -26,22 +26,27 @@ while True:
   print("\nBed Types")
   for i, r_type in enumerate(ROOM_TYPES, start=1):
     print(f"\n{i} = {r_type}")
-
-  choice = int(input("\nSelect a number from the choices: ")) - 1
+  
+  try:
+    choice = int(input("\nSelect a number from the choices: ")) - 1
+    if choice <0 or choice >= len(ROOM_TYPES):
+      print("That number is not in the list! ")
+      continue
+  except ValueError:
+    print("Invalid input!!!")
+    continue
   g_room = Room(room_num, ROOM_TYPES[choice])
 
   while True:
     print(f"Current_room = {g_room}")
-    try:
-      action = input("\n1=CheckIn\n2=CheckOut\n3=SwitchRoom\nEnter action required: ")
-    except ValueError:
-      print("Invalid input!")
+    action = input("\n1=CheckIn\n2=CheckOut\n3=SwitchRoom\nEnter action required: ")
 
-    if action == "1":
-      g_room.check_in()
-    elif action == "2":
-      g_room.check_out()
-    elif action == "3":
-      break
-    else:
-      print("Invalid choice! Please try again... ")
+    match action:
+      case "1":
+        g_room.check_in()
+      case "2":
+        g_room.check_out()
+      case "3":
+        break
+      case _:
+        print("Invalid choice!! Try again. ")
