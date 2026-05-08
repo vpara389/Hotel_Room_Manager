@@ -6,6 +6,7 @@ room_types = ("Single King", "Double Queen", "One Bedroom Suite", "Jaccuzzi Suit
 filename = "Room_Report.csv"
 
 written_rooms = set()
+all_rooms = []
 
 with open (filename, "w", newline="") as file:
     writer = csv.DictWriter(file, fieldnames=columns)
@@ -19,8 +20,11 @@ with open (filename, "w", newline="") as file:
 
         if r_num not in written_rooms:
             r_type = random.choice(room_types)
-            writer.writerow({"Room_Type": r_type, "Room_Number": r_num.sort()})
-
+            all_rooms.append({"Room_Type": r_type, "Room_Number": r_num})
             written_rooms.add(r_num)
+        
+    all_rooms.sort(key=lambda x: x["Room_Number"])
+    for room in all_rooms:
+        writer.writerow(room)
 
 print(f"Created {len(written_rooms)} unique rooms in {filename}. ")
