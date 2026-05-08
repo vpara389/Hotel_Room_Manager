@@ -1,145 +1,153 @@
 Room_Number,Room_Type
-101,Double Queen
-102,Jaccuzzi Suite
-103,Single King
-104,One Bedroom Suite
+101,One Bedroom Suite
+102,Single King
+103,One Bedroom Suite
+104,Jaccuzzi Suite
 105,Single King
 106,Double Queen
-107,Jaccuzzi Suite
-108,Jaccuzzi Suite
+107,Single King
+108,Double Queen
 109,Jaccuzzi Suite
-111,One Bedroom Suite
-112,Single King
+110,One Bedroom Suite
+111,Double Queen
+112,One Bedroom Suite
 113,Jaccuzzi Suite
-114,Double Queen
+114,Single King
 115,One Bedroom Suite
-116,One Bedroom Suite
-117,One Bedroom Suite
-118,Single King
-119,Double Queen
-121,One Bedroom Suite
+116,Single King
+117,Jaccuzzi Suite
+118,One Bedroom Suite
+119,One Bedroom Suite
+120,Jaccuzzi Suite
+121,Single King
 122,Double Queen
 123,Double Queen
-124,Single King
+124,One Bedroom Suite
 125,Double Queen
-126,Double Queen
-127,Jaccuzzi Suite
+126,One Bedroom Suite
+127,Single King
 128,One Bedroom Suite
 129,One Bedroom Suite
-131,Single King
+130,Double Queen
+131,Double Queen
 132,Single King
-133,Jaccuzzi Suite
-134,Jaccuzzi Suite
+133,One Bedroom Suite
+134,Double Queen
 135,Single King
-136,Single King
-137,One Bedroom Suite
-138,Double Queen
-139,Jaccuzzi Suite
+136,Jaccuzzi Suite
+137,Double Queen
+138,Jaccuzzi Suite
 201,Double Queen
 202,One Bedroom Suite
-203,Jaccuzzi Suite
-204,One Bedroom Suite
+203,One Bedroom Suite
+204,Double Queen
 205,Single King
 206,Double Queen
-207,Jaccuzzi Suite
-208,Single King
-209,One Bedroom Suite
-211,Double Queen
-212,Jaccuzzi Suite
-213,Double Queen
-214,Double Queen
-215,Single King
+207,One Bedroom Suite
+208,Double Queen
+209,Single King
+210,Jaccuzzi Suite
+211,Jaccuzzi Suite
+212,Single King
+213,Single King
+214,One Bedroom Suite
+215,Jaccuzzi Suite
 216,One Bedroom Suite
-217,Double Queen
+217,Jaccuzzi Suite
 218,Single King
 219,Jaccuzzi Suite
+220,One Bedroom Suite
 221,Single King
 222,Double Queen
 223,Jaccuzzi Suite
 224,Jaccuzzi Suite
-225,Double Queen
+225,Jaccuzzi Suite
 226,Single King
-227,Single King
-228,One Bedroom Suite
-229,One Bedroom Suite
-231,Double Queen
+227,Double Queen
+228,Double Queen
+229,Jaccuzzi Suite
+230,Jaccuzzi Suite
+231,Jaccuzzi Suite
 232,Jaccuzzi Suite
-233,Double Queen
-234,Jaccuzzi Suite
-235,Double Queen
+233,Single King
+234,One Bedroom Suite
+235,Single King
 236,Jaccuzzi Suite
-237,One Bedroom Suite
-238,Double Queen
-239,Double Queen
-301,Jaccuzzi Suite
+237,Double Queen
+238,Single King
+301,Double Queen
 302,Double Queen
-303,Double Queen
+303,Single King
 304,Jaccuzzi Suite
-305,Single King
-306,Double Queen
-307,Jaccuzzi Suite
-308,Single King
+305,Jaccuzzi Suite
+306,Jaccuzzi Suite
+307,Single King
+308,Jaccuzzi Suite
 309,Single King
-311,Double Queen
+310,One Bedroom Suite
+311,One Bedroom Suite
 312,Jaccuzzi Suite
-313,One Bedroom Suite
+313,Single King
 314,Double Queen
-315,Single King
-316,Single King
-317,Single King
+315,One Bedroom Suite
+316,Jaccuzzi Suite
+317,One Bedroom Suite
 318,Jaccuzzi Suite
-319,Jaccuzzi Suite
-321,Double Queen
+319,Single King
+320,One Bedroom Suite
+321,Jaccuzzi Suite
 322,Double Queen
 323,Double Queen
-324,One Bedroom Suite
-325,One Bedroom Suite
-326,Single King
-327,One Bedroom Suite
-328,Single King
+324,Single King
+325,Single King
+326,One Bedroom Suite
+327,Single King
+328,Double Queen
 329,Jaccuzzi Suite
-331,One Bedroom Suite
+330,Double Queen
+331,Double Queen
 332,Jaccuzzi Suite
-333,Jaccuzzi Suite
-334,Single King
-335,One Bedroom Suite
-336,One Bedroom Suite
-337,Double Queen
+333,Single King
+334,Double Queen
+335,Double Queen
+336,Single King
+337,Jaccuzzi Suite
 338,Single King
-339,Single King
-401,One Bedroom Suite
-402,One Bedroom Suite
-403,One Bedroom Suite
+401,Single King
+402,Double Queen
+403,Double Queen
 404,Single King
-405,Jaccuzzi Suite
-406,Double Queen
-407,Jaccuzzi Suite
-408,Jaccuzzi Suite
-409,One Bedroom Suite
+405,Single King
+406,Jaccuzzi Suite
+407,Double Queen
+408,Single King
+409,Double Queen
+410,Jaccuzzi Suite
 411,One Bedroom Suite
 412,Double Queen
-413,Jaccuzzi Suite
+413,Double Queen
 414,One Bedroom Suite
-415,One Bedroom Suite
-416,Single King
-417,Single King
-418,Double Queen
-419,Double Queen
-421,Jaccuzzi Suite
+415,Double Queen
+416,One Bedroom Suite
+417,One Bedroom Suite
+418,One Bedroom Suite
+419,One Bedroom Suite
+420,Single King
+421,Double Queen
 422,Single King
 423,Jaccuzzi Suite
-424,Double Queen
-425,Single King
+424,Single King
+425,One Bedroom Suite
 426,Jaccuzzi Suite
 427,Double Queen
-428,Double Queen
-429,One Bedroom Suite
-431,Jaccuzzi Suite
-432,Jaccuzzi Suite
-433,Jaccuzzi Suite
+428,Jaccuzzi Suite
+429,Jaccuzzi Suite
+430,Jaccuzzi Suite
+431,One Bedroom Suite
+432,One Bedroom Suite
+433,Double Queen
 434,Single King
-435,Double Queen
+435,Jaccuzzi Suite
 436,One Bedroom Suite
-437,Double Queen
+437,Jaccuzzi Suite
 438,Single King
-439,Jaccuzzi Suite
