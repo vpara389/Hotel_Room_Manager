@@ -1,4 +1,10 @@
+import os
+import csv
+
+columns = ["Room_Number", "Room_Type", "Status", "Is_Occupied"]
+filename = "Room_Report.csv"
 ROOM_TYPES = ("Single King", "Double Queen", "One Bedroom Suite", "Jaccuzzi Suite")
+
 class Room:
   def __init__(self, room_number, room_type):
     self.room_number = room_number
